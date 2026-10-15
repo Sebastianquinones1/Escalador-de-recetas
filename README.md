@@ -9,6 +9,7 @@ Herramienta web para recalcular las cantidades de una receta según la cantidad 
 1. Cargás los ingredientes de una receta (nombre, cantidad y unidad).
 2. Indicás para cuántas porciones está pensada la receta y para cuántas la querés.
 3. La página calcula el factor de escala y te muestra las cantidades nuevas, redondeadas a un decimal.
+4. Podés borrar ingredientes si te equivocás.
 
 **Ejemplo:** una receta para 4 porciones con 200 g de harina, escalada a 10 porciones, da 500 g de harina.
 
