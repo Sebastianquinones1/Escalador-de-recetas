@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="estilos.css">
+  <title>Escalador de recetas</title>
+</head>
+<body>
+    <main>
+  <h1>Escalador de recetas</h1>
+
+<h2>1. Ingredientes</h2>
+<input type="text" id="nombre" placeholder="Ingrediente">
+<input type="number" id="cantidad" placeholder="Cantidad">
+<input type="text" id="unidad" placeholder="Unidad (g, ml, unidades)">
+<button id="btnAgregar">Agregar</button>
+<div id="mensaje"></div>
+<div id="listaIngredientes"></div>
+
+<h2>2. Escalar</h2>
+<label>Porciones originales: <input type="number" id="original"></label><br>
+<label>Porciones que quiero: <input type="number" id="deseadas"></label><br>
+<button id="btnEscalar">Escalar</button>
+
+<div id="resultado"></div>
+</main>
+  <script src = "codigo.js"></script>
+</body>
