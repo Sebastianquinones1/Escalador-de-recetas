@@ -32,8 +32,6 @@ Herramienta web para recalcular las cantidades de una receta según la cantidad 
 Soy cocinero y estoy aprendiendo programación. Quise armar una herramienta que resolviera un problema real de la cocina: ajustar una receta cuando cambia la cantidad de comensales.
 
 ## Próximas mejoras
-
-- Botón para borrar ingredientes
 - Guardar recetas para no tener que cargarlas de nuevo
 - Mejor manejo de ingredientes en unidades (por ejemplo, los huevos)
 
